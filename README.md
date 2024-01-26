@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Kotlin, SQL, Firebase
 
 ## Education
-- B.S., Computer Science | The Western Paraná State University (Unioeste) | _2017 ~ 2022_)
+- 2017 - 2022: Bachelor of Computer Science. The Western Paraná State University, Brazil. Center for Exact and Technological Sciences.
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
